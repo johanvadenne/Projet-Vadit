@@ -1,0 +1,260 @@
+{
+  "main": {
+    "id": "8e6b7017286a7060",
+    "type": "split",
+    "children": [
+      {
+        "id": "e56c10cd734e420b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "de371f5398b8b875",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "28e629227b69ea87",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "API VADIT.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9f3c4f9a891da7f7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "API VADIT.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "24fff9e608206cd3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "API VADIT.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1fec8524da6e688e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "APP VADIT.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "54d9196ed8f98789",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dossier VADIT.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "31fe0262bcba08d4",
+    "type": "split",
+    "children": [
+      {
+        "id": "608a7e96f438420f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bd122b4f8cc3a49b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9f5eec9511110207",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e3ce52d363c9004c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3c720381d3f0afbc",
+    "type": "split",
+    "children": [
+      {
+        "id": "6444401dc92ef299",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2b173912a2885579",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Dossier VADIT.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "930d57e6bb3b262b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Dossier VADIT.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "55b1398e7e036aff",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "71ca076d39577f99",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Dossier VADIT.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Ouvrir le sélecteur rapide": false,
+      "graph:Ouvrir la vue graphique": false,
+      "canvas:Créer une nouvelle toile": false,
+      "daily-notes:Ouvrir la note quotidienne": false,
+      "templates:Insérer le modèle": false,
+      "command-palette:Ouvrir la palette de commandes": false
+    }
+  },
+  "active": "bd122b4f8cc3a49b",
+  "lastOpenFiles": [
+    "image/ico/logo_VADIT_très_petit2.ico.jpg",
+    "image/ico/logo_VADIT_miniscule.ico",
+    "image/ico/logo_VADIT_petit.ico",
+    "image/ico/logo_VADIT_très_petit.ico",
+    "image/ico",
+    "image/Nouveau dossier",
+    "image/jpg/logo_VADIT_très_petit.jpg",
+    "image/jpg/logo_VADIT_petit.jpg",
+    "image/jpg/logo_VADIT_moyen.jpg",
+    "image/jpg/logo_VADIT_miniscule.jpg",
+    "image/jpg/logo_VADIT_grand.jpg",
+    "image/jpg",
+    "image/logo_VADIT_miniscule.jpg",
+    "image/logo_VADIT_très_petit.jpg",
+    "image/logo_VADIT_petit.jpg",
+    "image/logo_VADIT_grand.jpg",
+    "image/logo_VADIT_moyen.jpg",
+    "Dossier .VADIT.md",
+    "Dossier VADIT.md",
+    "APP VADIT.md",
+    "Note.md",
+    "API VADIT.md",
+    "README.md",
+    "dépôt.md",
+    "Cl_Depot.md",
+    "image",
+    "Documentation/RÉSEAUX/INFRASTRUCTURE RÉSEAUX.md",
+    "Memento/Assembleur/Masm32/Masm32.md",
+    "Documentation/MACHINE/ORDINNATEUR DE L'ENTREPRISE.md",
+    "Memento/Assembleur/Masm32",
+    "Memento/Assembleur",
+    "Documentation/BDD/BDD sécurité et question.md",
+    "Documentation/MACHINE/MACHINE VIRTUELLE.md",
+    "Documentation/SERVEUR/SERVER.md",
+    "Documentation/RÉSEAUX",
+    "Documentation/ACCIDENT/ACCIDENT.md",
+    "Memento/Androïd Studio/Java.md",
+    "Outils/OWASP ZAP/OWASP ZAP.md",
+    "sécurité/WEB/WEB sécurité et question.md",
+    "sécurité/BDD/BDD sécurité et question.md",
+    "sécurité/WEB/WEB.md",
+    "Outils/Déploiement GitHub/Déploiement GitHub.md",
+    "Memento/Symfony/commande.md",
+    "langage/C++.md",
+    "sécurité/SERVEUR/SERVER.md",
+    "langage/XAML.md",
+    "sécurité/API/Sans titre.canvas"
+  ]
+}
