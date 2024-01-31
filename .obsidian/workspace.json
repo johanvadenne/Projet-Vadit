@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dossier VADIT.md",
+                "file": "Dossier .VADIT.md",
                 "mode": "source",
                 "source": false
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dossier VADIT.md",
+                "file": "Dossier .VADIT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dossier VADIT.md",
+                "file": "Dossier .VADIT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dossier VADIT.md"
+                "file": "Dossier .VADIT.md"
               }
             }
           }
@@ -207,43 +207,42 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "bd122b4f8cc3a49b",
+  "active": "54d9196ed8f98789",
   "lastOpenFiles": [
-    "image/ico/logo_VADIT_très_petit2.ico.jpg",
-    "image/ico/logo_VADIT_miniscule.ico",
-    "image/ico/logo_VADIT_petit.ico",
-    "image/ico/logo_VADIT_très_petit.ico",
-    "image/ico",
-    "image/Nouveau dossier",
-    "image/jpg/logo_VADIT_très_petit.jpg",
-    "image/jpg/logo_VADIT_petit.jpg",
-    "image/jpg/logo_VADIT_moyen.jpg",
-    "image/jpg/logo_VADIT_miniscule.jpg",
-    "image/jpg/logo_VADIT_grand.jpg",
-    "image/jpg",
-    "image/logo_VADIT_miniscule.jpg",
-    "image/logo_VADIT_très_petit.jpg",
-    "image/logo_VADIT_petit.jpg",
-    "image/logo_VADIT_grand.jpg",
-    "image/logo_VADIT_moyen.jpg",
-    "Dossier .VADIT.md",
     "Dossier VADIT.md",
+    "image/version 2/ico/logo_VADIT_petit.ico",
+    "image/version 2/ico/logo_VADIT_très_petit.ico",
+    "image/version 2/ico/logo_VADIT_minuscule.ico",
+    "image/version 2/ico/logo_VADIT_moyen.ico",
+    "image/version 2/ico",
+    "image/version 2/Nouveau dossier",
+    "image/version 2/png/logo_VADIT_minuscule.png",
+    "image/version 2/png/logo_VADIT_très_petit.png",
+    "image/version 2/png/logo_VADIT_petit.png",
+    "image/version 2/png/logo_VADIT_moyen.png",
+    "image/version 2/png/logo_VADIT_grand.png",
+    "image/version 2/png",
+    "image/version 2/jpg/logo_VADIT_miniscule.jpg",
+    "image/version 2/jpg/logo_VADIT_très_petit.jpg",
+    "image/version 2/jpg/logo_VADIT_petit.jpg",
+    "image/version 2/jpg/logo_VADIT_moyen.jpg",
+    "image/version 2/jpg/logo_VADIT_grand.jpg",
+    "image/version 2/jpg",
+    "image/version 2",
+    "image/Nouveau dossier",
+    "Dossier .VADIT.md",
     "APP VADIT.md",
     "Note.md",
     "API VADIT.md",
     "README.md",
     "dépôt.md",
     "Cl_Depot.md",
-    "image",
     "Documentation/RÉSEAUX/INFRASTRUCTURE RÉSEAUX.md",
     "Memento/Assembleur/Masm32/Masm32.md",
     "Documentation/MACHINE/ORDINNATEUR DE L'ENTREPRISE.md",
-    "Memento/Assembleur/Masm32",
-    "Memento/Assembleur",
     "Documentation/BDD/BDD sécurité et question.md",
     "Documentation/MACHINE/MACHINE VIRTUELLE.md",
     "Documentation/SERVEUR/SERVER.md",
-    "Documentation/RÉSEAUX",
     "Documentation/ACCIDENT/ACCIDENT.md",
     "Memento/Androïd Studio/Java.md",
     "Outils/OWASP ZAP/OWASP ZAP.md",

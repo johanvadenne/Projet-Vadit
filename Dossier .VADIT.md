@@ -23,4 +23,11 @@ exemple:
 
 ## différentiel
 Permet de répertorier dans des sous-dossier ayant le même nom de l'engagement (commit)
-la différence entre chaque fichier et dossier
+la différence entre chaque fichier et dossier. (Un enregistrement différentiel)
+
+## SHA256/engager
+Permet de répertorier des fichiers JSON ayant le même nom de l'engagement (commit).
+Il permet d'enregistrer le SHA256 du fichier
+
+## SHA256/local
+Contient un fichier JSON qui répertorie le SHA256 de chaque fichier.
