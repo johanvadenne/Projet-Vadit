@@ -4,83 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "e56c10cd734e420b",
+        "id": "37aa645b12fea5e9",
         "type": "tabs",
         "children": [
           {
-            "id": "de371f5398b8b875",
+            "id": "88ecd81e68905242",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Travail/API VADIT.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "28e629227b69ea87",
+            "id": "7510c48e823e2f78",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "API VADIT.md",
+                "file": "Dossier/VADIT.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "9f3c4f9a891da7f7",
+            "id": "30a6dd57da9dc328",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "API VADIT.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "24fff9e608206cd3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "API VADIT.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1fec8524da6e688e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "APP VADIT.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "54d9196ed8f98789",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dossier .VADIT.md",
+                "file": "Dossier/local.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -146,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dossier .VADIT.md",
+                "file": "Dossier/local.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dossier .VADIT.md",
+                "file": "Dossier/local.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dossier .VADIT.md"
+                "file": "Dossier/local.md"
               }
             }
           }
@@ -207,9 +171,18 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "54d9196ed8f98789",
+  "active": "bd122b4f8cc3a49b",
   "lastOpenFiles": [
-    "Dossier VADIT.md",
+    "README.md",
+    "Travail/Dossier VADIT.md",
+    "Travail/API VADIT.md",
+    "Travail/APP VADIT.md",
+    "Travail/Dossier .VADIT.md",
+    "Dossier/local.md",
+    "Dossier/VADIT.md",
+    "Dossier/API VADIT.md",
+    "Travail",
+    "Dossier",
     "image/version 2/ico/logo_VADIT_petit.ico",
     "image/version 2/ico/logo_VADIT_très_petit.ico",
     "image/version 2/ico/logo_VADIT_minuscule.ico",
@@ -228,13 +201,7 @@
     "image/version 2/jpg/logo_VADIT_moyen.jpg",
     "image/version 2/jpg/logo_VADIT_grand.jpg",
     "image/version 2/jpg",
-    "image/version 2",
-    "image/Nouveau dossier",
-    "Dossier .VADIT.md",
-    "APP VADIT.md",
     "Note.md",
-    "API VADIT.md",
-    "README.md",
     "dépôt.md",
     "Cl_Depot.md",
     "Documentation/RÉSEAUX/INFRASTRUCTURE RÉSEAUX.md",
@@ -252,8 +219,6 @@
     "Outils/Déploiement GitHub/Déploiement GitHub.md",
     "Memento/Symfony/commande.md",
     "langage/C++.md",
-    "sécurité/SERVEUR/SERVER.md",
-    "langage/XAML.md",
     "sécurité/API/Sans titre.canvas"
   ]
 }
