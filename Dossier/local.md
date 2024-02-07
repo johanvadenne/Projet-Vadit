@@ -2,11 +2,20 @@
 il contient un fichier JSON qui recence tous les fichiers existants en partant de la dernier version. le fichier JSON va enregistrer ceci:
 ```json
 {
-  "dossier/fichier.txt": 
-  {
-    "date_dernière_modification": "11/10/2023 11:20:22",
-    "SHA256": "140934990f93bda1a500ff7fed7f5b7eb00d25f84cdd7cef49ce54fb96d0661b"
-  }
+    "C:\\Users\\j.vadenne\\Desktop\\Dépôt VADIT 2.0\\Dépôt 1\\test.txt": {
+        "DossierOuFichier": "FICHIER",
+        "Chemin": "C:\\Users\\j.vadenne\\Desktop\\Dépôt VADIT 2.0\\Dépôt 1\\test.txt",
+        "CheminRelative": "test.txt",
+        "Date": "31/01/2024 13:04:02",
+        "sha256": ""
+    },
+    "C:\\Users\\j.vadenne\\Desktop\\Dépôt VADIT 2.0\\Dépôt 1\\test2.txt": {
+        "DossierOuFichier": "FICHIER",
+        "Chemin": "C:\\Users\\j.vadenne\\Desktop\\Dépôt VADIT 2.0\\Dépôt 1\\test2.txt",
+        "CheminRelative": "test2.txt",
+        "Date": "31/01/2024 13:10:53",
+        "sha256": ""
+    }
 }
 ```
 CLÉ: *chemin relative du fichier par rapport au dépôt*: permet d'identifier le fichier dans le dépôt
